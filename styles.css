@@ -24,7 +24,7 @@ body.sunset {
     --primary-color: transparent;
     --primary-color-dark: linear-gradient(#3434d6, #c844ae, #d19322);
     --bg-avatar: linear-gradient(to left, #800080, #3434d6, #00FFFF, #008000, #FFFF00, #F5853F, red);
-    height: 95vh;
+    height: 93.4vh;
 }
 
 body.dark-blue {
